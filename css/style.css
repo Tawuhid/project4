@@ -1,0 +1,178 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+.wrapper{
+       width: 1000px;
+    min-height: 1000px;
+    margin: 0 auto;
+}
+
+.social{
+     width: 50%;
+    height: 60px;
+    background-color: black;
+    float: left;
+}
+.mail{
+	    width: 50%;
+    height: 60px;
+    background-color: black;
+    float: left;
+
+}
+.social ul {
+	margin-left: 60px;
+
+}
+
+.social ul li{
+
+	list-style-type: none;
+    float: left;
+    padding-right: 30px;
+    
+}
+.mail i{
+	margin-top: 15px;
+    margin-left: 200px
+}
+
+.mail span{
+	color: white;
+    font-size: 16px;
+}
+.logo{
+	width: 50%;
+    height: 101px;
+    background-color: wheat;
+    float: left;
+    
+}
+.who{
+    width: 101px;
+    height: 101px;
+    background-image: url(../image/1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 106px;
+}
+
+.menu{
+	width: 50%;
+    height: 101px;
+    background-color: wheat;
+    float: left;
+}
+.menu ul{
+margin-top: 41px;
+       margin-left: -95px;
+}
+.menu ul li{
+	    list-style-type: none;
+    float: left;
+    padding-right: 36px;
+
+}
+.menu a{
+	    text-decoration: none;
+    font-size: 23px;
+    color: #00527f;
+    
+}
+.heading{
+	    width: 100%;
+    height: 500px;
+    background-image: url(../image/2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    overflow: hidden;
+
+
+}
+h1{
+	padding-left: 230px;
+    margin-top: 59px;
+    font-size: 45px;
+    color: #233c4a;
+}
+.do{
+	width: 100%;
+    height: 148px;
+    overflow: hidden;
+    background-color: wheat;
+}
+h2{
+padding-left: 346px;
+color: #233c4a;
+}
+hr{
+
+}
+h4{
+	padding-left: 346px;
+	color: #233c4a;
+}
+.circle{
+	width: 100%;
+    height: 200px;
+    overflow: hidden;
+    background-color: wheat;
+}
+.one{width: 25%;
+    height: 200px;
+    float: left;
+    background-image: url(../image/3.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.two{width: 25%;
+    height: 200px;
+    float: left;
+
+}
+.three{width: 25%;
+    height: 200px;
+    float: left;
+    background-image: url(../image/4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 50%;
+
+}
+.four{
+width: 25%;
+    height: 200px;
+    float: left;
+}
+.circle p{
+	margin-top: 34px;
+    padding-left: 34px;
+    padding-right: 14px;
+}
+.about{}
+.donate{}
+.map{
+	width: 50%;
+    height: 300px;
+    overflow: hidden;
+    background-color: wheat;
+    float: left;
+}
+.video{
+	width: 50%;
+    height: 300px;
+    overflow: hidden;
+    background-color: wheat;
+    float: left;
+
+}
+.bottom{
+	width: 100%;
+    height: 300px;
+    overflow: hidden;
+    
+}
